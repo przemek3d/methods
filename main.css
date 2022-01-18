@@ -1,0 +1,13 @@
+body {
+    color: snow;
+    font-family: Helvetica, sans-serif;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+:root {
+    background: #333333;
+}
